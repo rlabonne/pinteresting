@@ -80,4 +80,4 @@ end
 
 # Required for Heroku
 # Note to set this to your actual actual host
-config.action_mailer.default_url_options = { :host => 'https://rhl-pinteresting.herokuapp.com/' }
+config.action_mailer.default_url_options = { :host => 'rhl-pinteresting.herokuapp.com' }
